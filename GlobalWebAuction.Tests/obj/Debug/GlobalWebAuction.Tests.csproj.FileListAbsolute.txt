@@ -1,0 +1,66 @@
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\obj\Debug\GlobalWebAuction.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.Tests.dll.config
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.Tests.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.Tests.pdb
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Owin.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Infrastructure.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\DomainModels.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.pdb
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Infrastructure.pdb
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\DomainModels.pdb
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\obj\Debug\GlobalWebAuction.Tests.dll
+C:\Users\Роман\Desktop\Web Projects\GlobalWebAuction\GlobalWebAuction.Tests\obj\Debug\GlobalWebAuction.Tests.pdb
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.Tests.dll.config
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.Tests.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.Tests.pdb
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Owin.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Infrastructure.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\DomainModels.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\GlobalWebAuction.pdb
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Infrastructure.pdb
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\DomainModels.pdb
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\obj\Debug\GlobalWebAuction.Tests.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\obj\Debug\GlobalWebAuction.Tests.dll
+D:\Visual Studio 2013\GlobalWebAuction\GlobalWebAuction.Tests\obj\Debug\GlobalWebAuction.Tests.pdb
